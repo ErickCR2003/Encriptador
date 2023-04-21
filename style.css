@@ -98,10 +98,10 @@ table {
 	cursor: pointer;
   }
   
-  .btn:hover::before {
+.btn:hover::before {
 	margin-right: 10px;
 	font-size: 18px;
-  }
+}
 
 #titulo-pag-web{
 	font-size: 50px;
